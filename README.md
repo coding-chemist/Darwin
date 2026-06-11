@@ -211,7 +211,7 @@ npm run dev
 
 ## Author
 
-**Sindhuja Sivaraman** · Senior Engineer, AI/ML — HTC Global Services
+**Sindhuja Sivaraman** · MSc Chemistry · MS Data Science → Senior Engineer, AI/ML — HTC Global Services
 [Portfolio](https://coding-chemist.vercel.app) · [GitHub](https://github.com/coding-chemist)
 
 > *The future of hiring won't reward those who remember the most. It will notice who knows how to think with intelligence — especially alongside it.*
