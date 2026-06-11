@@ -6,7 +6,7 @@
   <img src="assets/darwin-flow.png" alt="Darwin — how it observes a candidate solving a problem with AI" width="100%">
 </p>
 
-**Live:** [darwin-eta.vercel.app](https://darwin-eta.vercel.app)
+**Live demo:** available on request — DM me on [LinkedIn](https://www.linkedin.com/in/sindhujasivaraman/) and I'll send the access link.
 
 ---
 
