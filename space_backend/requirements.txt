@@ -1,0 +1,14 @@
+fastapi
+uvicorn[standard]
+python-dotenv
+langchain
+langchain-core
+langchain-community
+langgraph
+langchain-groq
+crewai==0.95.0
+litellm
+pydantic
+python-multipart
+groq
+requests
