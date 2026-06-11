@@ -31,7 +31,7 @@ export default function App() {
               className="font-mono text-xs text-mid hover:text-ink transition-colors"
             >← new session</button>
           )}
-          <a href="https://github.com/coding-chemist" target="_blank" rel="noreferrer"
+          <a href="https://github.com/coding-chemist/Darwin" target="_blank" rel="noreferrer"
             className="font-mono text-[0.73rem] font-medium text-mid hover:text-ink transition-colors tracking-[0.03em]">
             GitHub ↗
           </a>
